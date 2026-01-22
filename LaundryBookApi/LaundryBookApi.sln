@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaundryBookApi", "LaundryBookApi\LaundryBookApi.csproj", "{1D094311-9D4C-475C-A66A-8EC5F49C11FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaundryBookCore", "LaundryBookCore\LaundryBookCore.csproj", "{CCC5267B-4DDE-4698-972B-405A98609C59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaundryBookApplication", "LaundryBookApplication\LaundryBookApplication.csproj", "{D5F89A22-7F14-4888-AE78-7B35B80BF316}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D094311-9D4C-475C-A66A-8EC5F49C11FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D094311-9D4C-475C-A66A-8EC5F49C11FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D094311-9D4C-475C-A66A-8EC5F49C11FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D094311-9D4C-475C-A66A-8EC5F49C11FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCC5267B-4DDE-4698-972B-405A98609C59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCC5267B-4DDE-4698-972B-405A98609C59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCC5267B-4DDE-4698-972B-405A98609C59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCC5267B-4DDE-4698-972B-405A98609C59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5F89A22-7F14-4888-AE78-7B35B80BF316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5F89A22-7F14-4888-AE78-7B35B80BF316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5F89A22-7F14-4888-AE78-7B35B80BF316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5F89A22-7F14-4888-AE78-7B35B80BF316}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
